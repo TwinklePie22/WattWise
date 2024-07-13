@@ -1,1 +1,2 @@
-# WattWise
+# VoltWave
+Electricity Billing System
